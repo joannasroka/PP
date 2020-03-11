@@ -1,0 +1,234 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set(C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Main.scala)
+[debug] 	added: Set(C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Consumer.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\target\PairString.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\AbstrPair.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Animals.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Cat.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Car.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Person.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Buffer.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Producer.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\HelloSystem.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\PairStr.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Dog.scala)
+[debug] 	modified: Set(C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Lista12.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Player.scala)
+[debug] Invalidated products: Set(C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Player$Pong.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Player$Pong$.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Player$Ping$.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Main.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Lista12.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Main$delayedInit$body.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Player.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Player$Ping.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Player$.class, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes\Player$$anonfun$receive$1.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(Player, Lista12, Player.Pong, Main, Player.Ping)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Lista12.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Player.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Main.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(Player, Lista12, Player.Pong, Main, Player.Ping)
+[debug] All initially invalidated sources:Set(C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Consumer.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\target\PairString.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\AbstrPair.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Lista12.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Animals.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Cat.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Player.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Car.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Person.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Buffer.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Producer.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\HelloSystem.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Main.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\PairStr.scala, C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\Dog.scala)
+[debug] Initial set of included nodes: Player, Lista12, Player.Pong, Main, Player.Ping
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[info] Compiling 14 Scala sources to C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.3.2:compile for Scala 2.13.1
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.3.2:compile for Scala 2.13.1
+[debug] [zinc] Running cached compiler 7725fe86 for Scala compiler version 2.13.1
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jdk1.8.0_221\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_221\jre\classes;C:\Users\asia3\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.1\scala-library-2.13.1.jar
+[debug] 	-classpath
+[debug] 	C:\Users\asia3\IdeaProjects\lista12Cwiczenia\target\scala-2.13\classes;C:\Users\asia3\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\typesafe\config\1.3.3\config-1.3.3.jar;C:\Users\asia3\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\typesafe\akka\akka-actor_2.13\2.5.27\akka-actor_2.13-2.5.27.jar;C:\Users\asia3\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-java8-compat_2.13\0.9.0\scala-java8-compat_2.13-0.9.0.jar
+[debug] Scala compilation took 8.722988641 s
+[info] Done compiling.
+[debug] Invalidating (transitively) by inheritance from Producer.Put...
+[debug] Initial set of included nodes: Producer.Put
+[debug] Invalidated by transitive inheritance dependency: Set(Producer.Put)
+[debug] The following modified names cause invalidation of Buffer: Set(UsedName(Put,[Default]), UsedName(apply,[Default]), UsedName(asInstanceOf,[Default]))
+[debug] Change NamesChange(Producer.Put,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(copy,[Default]), UsedName(unapply,[Default]), UsedName(productElementNames,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(productIterator,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(productElement,[Default]), UsedName(productArity,[Default]), UsedName(productPrefix,[Default]), UsedName(getClass,[Default]), UsedName(canEqual,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(productElementName,[Default]), UsedName(Put,[Default]), UsedName(apply,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(Producer;Put;init;,[Default]), UsedName(wait,[Default]))) invalidates 2 classes due to The Producer.Put has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(copy,[Default]), UsedName(unapply,[Default]), UsedName(productElementNames,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(productIterator,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(productElement,[Default]), UsedName(productArity,[Default]), UsedName(productPrefix,[Default]), UsedName(getClass,[Default]), UsedName(canEqual,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(productElementName,[Default]), UsedName(Put,[Default]), UsedName(apply,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(Producer;Put;init;,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Producer.Put)
+[debug] 	> 
+[debug] 	> by member reference: Set(Buffer)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from AbstractPair...
+[debug] Initial set of included nodes: AbstractPair
+[debug] Invalidated by transitive inheritance dependency: Set(AbstractPair)
+[debug] Change NamesChange(AbstractPair,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(AbstractPair,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(T,[Default]), UsedName(snd,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(AbstractPair;init;,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(K,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(fst,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 1 classes due to The AbstractPair has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(AbstractPair,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(T,[Default]), UsedName(snd,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(AbstractPair;init;,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(K,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(fst,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(AbstractPair)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Car...
+[debug] Initial set of included nodes: Car
+[debug] Invalidated by transitive inheritance dependency: Set(Car)
+[debug] Change NamesChange(Car,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(Car;init;,[Default]), UsedName(getClass,[Default]), UsedName(makeNoise,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(Car,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 1 classes due to The Car has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(Car;init;,[Default]), UsedName(getClass,[Default]), UsedName(makeNoise,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(Car,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Car)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Cat...
+[debug] Initial set of included nodes: Cat
+[debug] Invalidated by transitive inheritance dependency: Set(Cat)
+[debug] The following modified names cause invalidation of Lista12: Set(UsedName(makeNoise,[Default]), UsedName(Cat;init;,[Default]), UsedName(Cat,[Default]))
+[debug] Change NamesChange(Cat,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(makeNoise,[Default]), UsedName(clone,[Default]), UsedName(species,[Default]), UsedName(!=,[Default]), UsedName(Cat;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(Cat,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 2 classes due to The Cat has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(makeNoise,[Default]), UsedName(clone,[Default]), UsedName(species,[Default]), UsedName(!=,[Default]), UsedName(Cat;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(Cat,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Cat)
+[debug] 	> 
+[debug] 	> by member reference: Set(Lista12)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Person...
+[debug] Initial set of included nodes: Person
+[debug] Invalidated by transitive inheritance dependency: Set(Person)
+[debug] The following modified names cause invalidation of Lista12: Set(UsedName(Person;init;,[Default]), UsedName(Person,[Default]))
+[debug] Change NamesChange(Person,ModifiedNames(changes = UsedName(<=,[Default]), UsedName(notify,[Default]), UsedName(compare,[Default]), UsedName(>=,[Default]), UsedName(<,[Default]), UsedName(Person;init;,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(lastName,[Default]), UsedName(compareTo,[Default]), UsedName(firstName,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(>,[Default]), UsedName(asInstanceOf,[Default]), UsedName(Person,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 2 classes due to The Person has the following regular definitions changed:
+[debug] 	UsedName(<=,[Default]), UsedName(notify,[Default]), UsedName(compare,[Default]), UsedName(>=,[Default]), UsedName(<,[Default]), UsedName(Person;init;,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(lastName,[Default]), UsedName(compareTo,[Default]), UsedName(firstName,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(>,[Default]), UsedName(asInstanceOf,[Default]), UsedName(Person,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Person)
+[debug] 	> 
+[debug] 	> by member reference: Set(Lista12)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Lista12...
+[debug] Initial set of included nodes: Lista12
+[debug] Invalidated by transitive inheritance dependency: Set(Lista12)
+[debug] Change NamesChange(Lista12,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(Lista12,[Default]), UsedName(getClass,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(Lista12;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 1 classes due to The Lista12 has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(Lista12,[Default]), UsedName(getClass,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(Lista12;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Lista12)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Player...
+[debug] Initial set of included nodes: Player
+[debug] Invalidated by transitive inheritance dependency: Set(Player)
+[debug] Change NamesChange(Player,ModifiedNames(changes = UsedName(aroundPostRestart,[Default]), UsedName(name,[Default]))) invalidates 1 classes due to The Player has the following regular definitions changed:
+[debug] 	UsedName(aroundPostRestart,[Default]), UsedName(name,[Default]).
+[debug] 	> by transitive inheritance: Set(Player)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Consumer.IsFree...
+[debug] Initial set of included nodes: Consumer.IsFree
+[debug] Invalidated by transitive inheritance dependency: Set(Consumer.IsFree)
+[debug] The following modified names cause invalidation of Buffer: Set(UsedName(apply,[Default]), UsedName(IsFree,[Default]), UsedName(asInstanceOf,[Default]))
+[debug] The following modified names cause invalidation of Lista12: Set(UsedName(apply,[Default]), UsedName(IsFree,[Default]))
+[debug] Change NamesChange(Consumer.IsFree,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(copy,[Default]), UsedName(unapply,[Default]), UsedName(productElementNames,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(productIterator,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(productElement,[Default]), UsedName(productArity,[Default]), UsedName(productPrefix,[Default]), UsedName(getClass,[Default]), UsedName(canEqual,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(productElementName,[Default]), UsedName(apply,[Default]), UsedName(IsFree,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(Consumer;IsFree;init;,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 3 classes due to The Consumer.IsFree has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(copy,[Default]), UsedName(unapply,[Default]), UsedName(productElementNames,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(productIterator,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(productElement,[Default]), UsedName(productArity,[Default]), UsedName(productPrefix,[Default]), UsedName(getClass,[Default]), UsedName(canEqual,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(productElementName,[Default]), UsedName(apply,[Default]), UsedName(IsFree,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(Consumer;IsFree;init;,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Consumer.IsFree)
+[debug] 	> 
+[debug] 	> by member reference: Set(Buffer, Lista12)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from HelloSystem...
+[debug] Initial set of included nodes: HelloSystem
+[debug] Invalidated by transitive inheritance dependency: Set(HelloSystem)
+[debug] The following member ref dependencies of HelloSystem are invalidated:
+[debug] 	Lista12
+[debug] Change NamesChange(HelloSystem,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(preStart,[Default]), UsedName(aroundPostStop,[Default]), UsedName(aroundPreStart,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(aroundPostRestart,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(postRestart,[Default]), UsedName(postStop,[Default]), UsedName(getClass,[Default]), UsedName(preRestart,[Default]), UsedName(context,[Implicit]), UsedName(supervisorStrategy,[Default]), UsedName(clone,[Default]), UsedName(unhandled,[Default]), UsedName(!=,[Default]), UsedName(aroundPreRestart,[Default]), UsedName(sender,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(HelloSystem,[Default]), UsedName(finalize,[Default]), UsedName(receive,[Default]), UsedName(##,[Default]), UsedName(HelloSystem;init;,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(Receive,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(aroundReceive,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(self,[Implicit]))) invalidates 2 classes due to The HelloSystem has the following implicit definitions changed:
+[debug] 	UsedName(context,[Implicit]), UsedName(self,[Implicit]).
+[debug] 	> by transitive inheritance: Set(HelloSystem)
+[debug] 	> 
+[debug] 	> by member reference: Set(Lista12)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Animals...
+[debug] Initial set of included nodes: Animals
+[debug] Including Cat by Animals
+[debug] Including Dog by Animals
+[debug] Invalidated by transitive inheritance dependency: Set(Dog, Cat, Animals)
+[debug] The following modified names cause invalidation of Lista12: Set(UsedName(makeNoise,[Default]), UsedName(Animals,[Default]))
+[debug] The following modified names cause invalidation of Lista12: Set(UsedName(makeNoise,[Default]), UsedName(Animals,[Default]))
+[debug] The following modified names cause invalidation of Cat: Set(UsedName(Animals;init;,[Default]), UsedName(species,[Default]), UsedName(Animals,[Default]))
+[debug] The following modified names cause invalidation of Dog: Set(UsedName(Animals;init;,[Default]), UsedName(species,[Default]), UsedName(Animals,[Default]))
+[debug] The following modified names cause invalidation of Lista12: Set(UsedName(makeNoise,[Default]), UsedName(Animals,[Default]))
+[debug] Change NamesChange(Animals,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(Animals;init;,[Default]), UsedName(getClass,[Default]), UsedName(makeNoise,[Default]), UsedName(clone,[Default]), UsedName(species,[Default]), UsedName(!=,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Animals,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 4 classes due to The Animals has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(Animals;init;,[Default]), UsedName(getClass,[Default]), UsedName(makeNoise,[Default]), UsedName(clone,[Default]), UsedName(species,[Default]), UsedName(!=,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Animals,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Dog, Cat, Animals)
+[debug] 	> 
+[debug] 	> by member reference: Set(Lista12, Cat, Dog)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Main...
+[debug] Initial set of included nodes: Main
+[debug] Invalidated by transitive inheritance dependency: Set(Main)
+[debug] Change NamesChange(Main,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(Main;init;,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(ourSystem,[Default]), UsedName(getClass,[Default]), UsedName(args,[Default]), UsedName(clone,[Default]), UsedName(player2,[Default]), UsedName(executionStart,[Default]), UsedName(!=,[Default]), UsedName(player1,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Main,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(delayedInit,[Default]))) invalidates 1 classes due to The Main has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(Main;init;,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(ourSystem,[Default]), UsedName(getClass,[Default]), UsedName(args,[Default]), UsedName(clone,[Default]), UsedName(player2,[Default]), UsedName(executionStart,[Default]), UsedName(!=,[Default]), UsedName(player1,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Main,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(delayedInit,[Default]).
+[debug] 	> by transitive inheritance: Set(Main)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Buffer.StartProduction...
+[debug] Initial set of included nodes: Buffer.StartProduction
+[debug] Invalidated by transitive inheritance dependency: Set(Buffer.StartProduction)
+[debug] The following modified names cause invalidation of Lista12: Set(UsedName(StartProduction,[Default]), UsedName(apply,[Default]))
+[debug] The following modified names cause invalidation of Producer: Set(UsedName(StartProduction,[Default]), UsedName(apply,[Default]), UsedName(asInstanceOf,[Default]))
+[debug] Change NamesChange(Buffer.StartProduction,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(copy,[Default]), UsedName(unapply,[Default]), UsedName(productElementNames,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(productIterator,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(productElement,[Default]), UsedName(productArity,[Default]), UsedName(StartProduction,[Default]), UsedName(productPrefix,[Default]), UsedName(getClass,[Default]), UsedName(Buffer;StartProduction;init;,[Default]), UsedName(canEqual,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(productElementName,[Default]), UsedName(apply,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 3 classes due to The Buffer.StartProduction has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(copy,[Default]), UsedName(unapply,[Default]), UsedName(productElementNames,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(productIterator,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(productElement,[Default]), UsedName(productArity,[Default]), UsedName(StartProduction,[Default]), UsedName(productPrefix,[Default]), UsedName(getClass,[Default]), UsedName(Buffer;StartProduction;init;,[Default]), UsedName(canEqual,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(productElementName,[Default]), UsedName(apply,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Buffer.StartProduction)
+[debug] 	> 
+[debug] 	> by member reference: Set(Lista12, Producer)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from PairStr...
+[debug] Initial set of included nodes: PairStr
+[debug] Invalidated by transitive inheritance dependency: Set(PairStr)
+[debug] Change NamesChange(PairStr,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(PairStr;init;,[Default]), UsedName(getClass,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(snd,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(fst,[Default]), UsedName(PairStr,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 1 classes due to The PairStr has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(PairStr;init;,[Default]), UsedName(getClass,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(snd,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(fst,[Default]), UsedName(PairStr,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(PairStr)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Dog...
+[debug] Initial set of included nodes: Dog
+[debug] Invalidated by transitive inheritance dependency: Set(Dog)
+[debug] The following modified names cause invalidation of Lista12: Set(UsedName(makeNoise,[Default]), UsedName(Dog;init;,[Default]), UsedName(Dog,[Default]))
+[debug] Change NamesChange(Dog,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(makeNoise,[Default]), UsedName(clone,[Default]), UsedName(species,[Default]), UsedName(!=,[Default]), UsedName(Dog;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(Dog,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 2 classes due to The Dog has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(makeNoise,[Default]), UsedName(clone,[Default]), UsedName(species,[Default]), UsedName(!=,[Default]), UsedName(Dog;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(Dog,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Dog)
+[debug] 	> 
+[debug] 	> by member reference: Set(Lista12)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Producer...
+[debug] Initial set of included nodes: Producer
+[debug] Invalidated by transitive inheritance dependency: Set(Producer)
+[debug] The following member ref dependencies of Producer are invalidated:
+[debug] 	Buffer
+[debug] 	Lista12
+[debug] Change NamesChange(Producer,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(preStart,[Default]), UsedName(Producer,[Default]), UsedName(aroundPostStop,[Default]), UsedName(aroundPreStart,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(aroundPostRestart,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(props,[Default]), UsedName(postRestart,[Default]), UsedName(postStop,[Default]), UsedName(getClass,[Default]), UsedName(preRestart,[Default]), UsedName(context,[Implicit]), UsedName(supervisorStrategy,[Default]), UsedName(clone,[Default]), UsedName(unhandled,[Default]), UsedName(!=,[Default]), UsedName(Put,[Default]), UsedName(aroundPreRestart,[Default]), UsedName(sender,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(receive,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(Receive,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(aroundReceive,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(self,[Implicit]), UsedName(Producer;init;,[Default]))) invalidates 3 classes due to The Producer has the following implicit definitions changed:
+[debug] 	UsedName(context,[Implicit]), UsedName(self,[Implicit]).
+[debug] 	> by transitive inheritance: Set(Producer)
+[debug] 	> 
+[debug] 	> by member reference: Set(Buffer, Lista12)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Buffer.Take...
+[debug] Initial set of included nodes: Buffer.Take
+[debug] Invalidated by transitive inheritance dependency: Set(Buffer.Take)
+[debug] The following modified names cause invalidation of Consumer: Set(UsedName(Take,[Default]), UsedName(apply,[Default]), UsedName(asInstanceOf,[Default]))
+[debug] Change NamesChange(Buffer.Take,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(copy,[Default]), UsedName(unapply,[Default]), UsedName(productElementNames,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(productIterator,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(productElement,[Default]), UsedName(productArity,[Default]), UsedName(productPrefix,[Default]), UsedName(Take,[Default]), UsedName(getClass,[Default]), UsedName(canEqual,[Default]), UsedName(Buffer;Take;init;,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(productElementName,[Default]), UsedName(apply,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 2 classes due to The Buffer.Take has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(copy,[Default]), UsedName(unapply,[Default]), UsedName(productElementNames,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(productIterator,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(productElement,[Default]), UsedName(productArity,[Default]), UsedName(productPrefix,[Default]), UsedName(Take,[Default]), UsedName(getClass,[Default]), UsedName(canEqual,[Default]), UsedName(Buffer;Take;init;,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(productElementName,[Default]), UsedName(apply,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(Buffer.Take)
+[debug] 	> 
+[debug] 	> by member reference: Set(Consumer)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Consumer...
+[debug] Initial set of included nodes: Consumer
+[debug] Invalidated by transitive inheritance dependency: Set(Consumer)
+[debug] The following member ref dependencies of Consumer are invalidated:
+[debug] 	Buffer
+[debug] 	Lista12
+[debug] Change NamesChange(Consumer,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(preStart,[Default]), UsedName(aroundPostStop,[Default]), UsedName(aroundPreStart,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(aroundPostRestart,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(props,[Default]), UsedName(postRestart,[Default]), UsedName(postStop,[Default]), UsedName(getClass,[Default]), UsedName(preRestart,[Default]), UsedName(context,[Implicit]), UsedName(supervisorStrategy,[Default]), UsedName(clone,[Default]), UsedName(unhandled,[Default]), UsedName(!=,[Default]), UsedName(Consumer;init;,[Default]), UsedName(IsFree,[Default]), UsedName(aroundPreRestart,[Default]), UsedName(sender,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Consumer,[Default]), UsedName(finalize,[Default]), UsedName(receive,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(Receive,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(aroundReceive,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(self,[Implicit]))) invalidates 3 classes due to The Consumer has the following implicit definitions changed:
+[debug] 	UsedName(context,[Implicit]), UsedName(self,[Implicit]).
+[debug] 	> by transitive inheritance: Set(Consumer)
+[debug] 	> 
+[debug] 	> by member reference: Set(Buffer, Lista12)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from Buffer...
+[debug] Initial set of included nodes: Buffer
+[debug] Invalidated by transitive inheritance dependency: Set(Buffer)
+[debug] The following member ref dependencies of Buffer are invalidated:
+[debug] 	Consumer
+[debug] 	Lista12
+[debug] 	Producer
+[debug] Change NamesChange(Buffer,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(preStart,[Default]), UsedName(aroundPostStop,[Default]), UsedName(aroundPreStart,[Default]), UsedName(synchronized,[Default]), UsedName($init$,[Default]), UsedName(aroundPostRestart,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(props,[Default]), UsedName(postRestart,[Default]), UsedName(StartProduction,[Default]), UsedName(postStop,[Default]), UsedName(Take,[Default]), UsedName(getClass,[Default]), UsedName(preRestart,[Default]), UsedName(context,[Implicit]), UsedName(supervisorStrategy,[Default]), UsedName(Buffer,[Default]), UsedName(clone,[Default]), UsedName(unhandled,[Default]), UsedName(Buffer;init;,[Default]), UsedName(!=,[Default]), UsedName(aroundPreRestart,[Default]), UsedName(sender,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(receive,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(freeConsumers,[Default]), UsedName(ne,[Default]), UsedName(Receive,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(aroundReceive,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(products,[Default]), UsedName(wait,[Default]), UsedName(self,[Implicit]))) invalidates 4 classes due to The Buffer has the following implicit definitions changed:
+[debug] 	UsedName(context,[Implicit]), UsedName(self,[Implicit]).
+[debug] 	> by transitive inheritance: Set(Buffer)
+[debug] 	> 
+[debug] 	> by member reference: Set(Consumer, Lista12, Producer)
+[debug]         
+[debug] Invalidating (transitively) by inheritance from target.Pair...
+[debug] Initial set of included nodes: target.Pair
+[debug] Invalidated by transitive inheritance dependency: Set(target.Pair)
+[debug] Change NamesChange(target.Pair,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(target;Pair;init;,[Default]), UsedName(getClass,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(snd,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Pair,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(fst,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]))) invalidates 1 classes due to The target.Pair has the following regular definitions changed:
+[debug] 	UsedName(notify,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName($asInstanceOf,[Default]), UsedName(target;Pair;init;,[Default]), UsedName(getClass,[Default]), UsedName(clone,[Default]), UsedName(!=,[Default]), UsedName(snd,[Default]), UsedName(isInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Pair,[Default]), UsedName(finalize,[Default]), UsedName(##,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(fst,[Default]), UsedName(asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]).
+[debug] 	> by transitive inheritance: Set(target.Pair)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: 
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] No classes were invalidated.

@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [scala / Compile / run] Found inputs: C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\*.{java,scala},C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\src\main\java\**\*.{java,scala},C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\src\main\resources\**\*,C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\src\main\scala\**\*.{java,scala},C:\Users\asia3\IdeaProjects\lista12Cwiczenia\src\main\scala\src\main\scala-2.12\**\*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for scala/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
